@@ -13,7 +13,7 @@ import java.awt.event.ActionEvent;
 import java.awt.Font;
 import java.awt.Color;
 import javax.swing.ImageIcon;
-
+//this class will delete the contact of choice
 public class dlt {
 String name;
 	 JFrame frmContactList;
