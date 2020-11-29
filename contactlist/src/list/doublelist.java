@@ -96,7 +96,7 @@ public class doublelist {
     		}
     		q=q.Next;
     	}
-    	if(q.Next.name.equals(name))		/*last element deleted*/
+    	if(q.Next.name.equals(name))		/*last one deleted*/
     	{
     		tmp=q.Next;
     		
