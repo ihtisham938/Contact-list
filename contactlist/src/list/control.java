@@ -6,7 +6,7 @@ public class control {
     
     	obj12.CreateNode(name, i, mail);
     
-	//for git hub change check	
+	//for git hub change 
 	}
   void del(String name) {
         
